@@ -20,3 +20,7 @@ Repositorio del Examen Parcial 1
 -  Jupyter
 
 ##  Explicación de la data utilizada:
+- archivos png 
+- archivos txt
+- archivos sh
+- rchivos ipynb
